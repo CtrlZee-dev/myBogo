@@ -207,7 +207,7 @@ $orderStatus = 'pending';
 <body>
     <div class="header">
         <div class="who-we-are-header  header">
-            <a href="index.php">
+            <a href="index.html">
                 <div class="logo">
                     <img src="./images/thh.png" class="logo-img " width="55px">
 
@@ -371,7 +371,7 @@ $orderStatus = 'pending';
                                                     <label class="card-radio-label mb-0">
                                                         <input type="radio" name="address" id="info-address1" class="card-radio-input" checked="">
                                                         <div class="card-radio text-truncate p-3">
-                                                            <span class="fs-14 mb-4 d-block">Same As Billing address </span>
+                                                            <span class="fs-14 mb-4 d-block">Same As Shipping address </span>
 
                                                         </div>
                                                     </label>

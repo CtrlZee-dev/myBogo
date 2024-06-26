@@ -250,7 +250,7 @@ if (session_status() !== PHP_SESSION_ACTIVE) {
 <body>
 
     <div class="who-we-are-header ">
-        <a href="index.php">
+        <a href="index.html">
             <div class="logo">
                 <img src="./images/thh.png" class="logo-img " width="55px">
 

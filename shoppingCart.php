@@ -212,7 +212,7 @@ $cartItems = isset($_SESSION['cart']) ? $_SESSION['cart'] : array();
 <body>
     <div class="header">
         <div class="who-we-are-header  header">
-            <a href="index.php">
+            <a href="index.html">
                 <div class="logo">
                     <img src="./images/thh.png" class="logo-img " width="55px">
 

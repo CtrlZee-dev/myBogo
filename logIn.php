@@ -34,10 +34,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       $_SESSION["user_id"] = $user["id"];
 
       if ($user["role"] === "customer") {
-        header("Location: /project/index.php");
+        header("Location: /project/index.html");
         exit;
       } elseif ($user["role"] === "admin") {
-        header("Location: ../project_Control_Panel/index.php");
+        header("Location: ../project_Control_Panel/index.html");
         exit;
       }
     }
